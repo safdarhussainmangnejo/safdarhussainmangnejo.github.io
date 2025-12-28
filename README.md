@@ -1,6 +1,6 @@
-# 👋 Hi, I’m **Safdar Hussain**
+# 👋 Hi, I’m **Safdar Hussain Mangnejo**
 
-### 🔧 Full Stack Engineer | AI Researcher | MSc Computer Science Student
+### 🔧 Full Stack Engineer | AI Researcher | MS Computer Science Scholar
 
 ---
 
@@ -8,7 +8,7 @@
 
 I'm a results-driven Full Stack Software Engineer with four years of experience building scalable, data-driven web applications using **React.js**, **Next.js**, **TypeScript/TypeScript**, **Node.js**, and **Python**. I’m passionate about creating high-performance systems, enhancing user experiences, and delivering impactful digital solutions.
 
-Currently, I'm a **Research Fellow at NTNU Norway**, working on AI-powered learning analytics to enhance online education. I have a strong background in **cloud computing (AWS)**, **DevOps**, and in building secure, responsive, and optimized applications.
+I served as a **Research Fellow at Norwegian University of Science & Technology (NTNU), Norway**, working on AI-powered learning analytics to enhance online education. I have a sound background in building secure, responsive, and optimized applications.
 
 I thrive in cross-functional agile teams, enjoy mentoring peers, and continuously learn to stay ahead in the evolving tech landscape.
 
@@ -16,13 +16,12 @@ I thrive in cross-functional agile teams, enjoy mentoring peers, and continuousl
 
 ## 🛠️ Qualifications
 
-- **Full Stack Development**: Expertise in **React.js**, **Next.js**, **Node.js**, **Express**, **MongoDB**, **MySQL**, and REST APIs.
-- **Cloud & DevOps**: Skilled in **AWS**, **Docker**, CI/CD pipelines, and serverless infrastructure.
+- **Full Stack Development**: Expertise in **React.js**, **Next.js**, **Node.js**, **Express**, **MongoDB**, **MySQL**, **Python**, **AI/ML** and **REST APIs**.
 - **AI & Data Projects**: Leading research on AI-powered learning systems, including user analytics and data visualization using xAPI.
 - **Modern Practices**: Comfortable with TypeScript, Material UI, Tailwind CSS, Redux, Zustand, and performance optimization (lazy loading, code splitting).
 - **Global Collaboration**: Worked effectively with teams across **Norway, UAE, Pakistan, and Indonesia**, delivering real-world, production-ready solutions.
-- **Education**: MSc in Computer Science (2024–2025)
-- **Certifications**: MERN Stack, Docker, GraphQL, Advanced SQL, AWS, GitHub, and Data Science tooling.
+- **Education**: MSc in Computer Science (2024–2026)
+- **Certifications**: Google Certified In Data Analytics, MERN Stack, Docker, GraphQL, Advanced SQL, AWS, GitHub, and Data Science tooling.
 
 ---
 
@@ -39,7 +38,7 @@ I thrive in cross-functional agile teams, enjoy mentoring peers, and continuousl
 ## 🎓 Education
 
 - **MSc in Computer Science** — Sukkur IBA University  
-  *2024 – 2025*
+  *2024 – 2026*
 
 - **Bachelor's in Computer Science** — Sukkur IBA University  
   *2020 – 2022*
